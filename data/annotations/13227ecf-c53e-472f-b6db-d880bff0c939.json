@@ -1,5 +1,1077 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar strumming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "46ab5fab-9c57-4fa6-9521-bc8cf5fbadf7"
+    },
+    {
+      "start_time": 27,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female vocalist performs piece [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "b36f04f5-752c-4bdd-ac82-9ddac95fc6c7"
+    },
+    {
+      "start_time": 70,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collective vocalists chant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "3d78f90a-9071-48c1-8d18-2464a9f7721f"
+    },
+    {
+      "start_time": 71,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female vocalist performs continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "2d2681ab-5098-4994-bd83-855cc8286236"
+    },
+    {
+      "start_time": 85,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Man’s voice speaking [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "9126b78f-2149-45ab-a5ec-6272096d565e"
+    },
+    {
+      "start_time": 86,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud metallic sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "2961996a-76e6-40d9-aaff-817f89afc0cf"
+    },
+    {
+      "start_time": 85,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [French][overtop of metallic sounds]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "36e81faa-58cd-48da-a829-bcc3e537677b"
+    },
+    {
+      "start_time": 117,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female vocalist performs in sync with Lefebvre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "f6cf9c87-d1a0-42f5-b71c-f3c51ef1cf0d"
+    },
+    {
+      "start_time": 126,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Loud metallic sound [continues]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "d095ccbd-514b-4770-a2b3-73d560bfb7fa"
+    },
+    {
+      "start_time": 141,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Record pops, accordion. Wind sounds overlaid."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "543ada07-c3f8-4fa7-bf6d-6c483726edcc"
+    },
+    {
+      "start_time": 142,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece in french, sync with female voice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "616e7d47-5fbe-4c0e-a221-57f423a1db36"
+    },
+    {
+      "start_time": 168,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Male voice [French][possibly pre-recorded][on top of synth music]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "ca78ddce-4b5c-4545-95f9-9dd5ce779555"
+    },
+    {
+      "start_time": 189,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [on top of synth music and male French voice]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "d29eb7a9-6695-497f-870d-e3dfb5bd039a"
+    },
+    {
+      "start_time": 237,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Low hum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "62305559-ca2a-49a8-8919-6b9f6e657e65"
+    },
+    {
+      "start_time": 243,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collective recitation [instances of chanting, singing, speaker feedback, and electric guitar]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "99c7ccf1-891b-4a44-b016-dea4294d7b0a"
+    },
+    {
+      "start_time": 372,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female voice performs [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "2f703a0e-bb5f-452e-9c69-e47f39261a0b"
+    },
+    {
+      "start_time": 380,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whispering [French][multi-layered audio, raises gradually]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "a67854ce-3ae4-4d69-b2b5-8e478ce38f29"
+    },
+    {
+      "start_time": 388,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female voice continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "bde2a304-a8f4-441c-9015-e607c8aeba6f"
+    },
+    {
+      "start_time": 390,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whispering and multi-layered audio continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "ed75efd1-1c2f-4b8e-9da0-883e13bbb88a"
+    },
+    {
+      "start_time": 398,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "83cd4f10-bd35-4a9c-99db-8c0f1c758a54"
+    },
+    {
+      "start_time": 406,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whispers continue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "fa0b2b2a-f835-4f4b-935f-fc7681eb1121"
+    },
+    {
+      "start_time": 416,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar and rhythmic drums."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "1cd4cc37-d9e5-45aa-a142-e9fce5dc4ccf"
+    },
+    {
+      "start_time": 441,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "daca66e4-e5a8-4b31-8d90-193ca5b4b854"
+    },
+    {
+      "start_time": 491,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Feedback buzz [recorded murmurs, chimes]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "ddb21458-913c-4c4b-8685-87ba26ec05bb"
+    },
+    {
+      "start_time": 510,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female voice performs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "5087de39-fd3a-4263-9a77-3a2d187883c6"
+    },
+    {
+      "start_time": 520,
+      "end_time": 522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs spoken piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "38ae158e-316f-4bc5-9818-0010c700b0e6"
+    },
+    {
+      "start_time": 522,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female voice continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "4e7a1093-c20c-44b4-ae02-ab3e96f257a0"
+    },
+    {
+      "start_time": 535,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Electric guitar and rhythmic drums continue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "9ba524ba-7247-4a57-911d-1ca79963d5a6"
+    },
+    {
+      "start_time": 543,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Female voice performs continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Unknown Performer"
+        }
+      ],
+      "uuid": "0b2c2310-c745-4f9e-be8d-1bbc86cdd885"
+    },
+    {
+      "start_time": 556,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece in French [in sync with female voice]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "862f46f9-bdaf-42e5-b0f8-0d7afd477f42"
+    },
+    {
+      "start_time": 593,
+      "end_time": 695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collective chanting and singing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "da1e62d7-faf4-4abf-baa6-2995f3e4a2ef"
+    },
+    {
+      "start_time": 695,
+      "end_time": 701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "8428a0f1-3247-44b6-8345-dd95fe8cd45a"
+    },
+    {
+      "start_time": 701,
+      "end_time": 704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic bassline [drums and electric guitar]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "cc6861be-4ccf-4ced-96d2-a470e51aa3e0"
+    },
+    {
+      "start_time": 704,
+      "end_time": 723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voice whispering [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "b0964cf8-027c-4ec5-9f01-b37f8336617a"
+    },
+    {
+      "start_time": 723,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic bassline continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "366a6ddc-36a4-40d7-b66c-6a054eb7f1df"
+    },
+    {
+      "start_time": 745,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Multiple voices speaking [French][moaning]. Music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "952e496f-c8c8-488a-9569-28202b6892a9"
+    },
+    {
+      "start_time": 815,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Performs piece [French]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "626131d7-7ecd-4dac-8c3c-bb1b0ea6b991"
+    },
+    {
+      "start_time": 835,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clapping starts [overtop of bassline and multi-layered audio]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "ed87e135-7a7a-4e64-922a-fb08db9aab7f"
+    },
+    {
+      "start_time": 866,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Resumes piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers and Speakers",
+          "tag": "Michel Lefebvre"
+        }
+      ],
+      "uuid": "6e9b8393-8d61-4eeb-9fd4-83a33b0a4d5f"
+    },
+    {
+      "start_time": 905,
+      "end_time": 969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chimes [overtop of bassline and multi-layered audio]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "c4b2b699-aa29-4a11-a3ed-665dc9664184"
+    },
+    {
+      "start_time": 969,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "372dfee5-22dd-4275-9ba8-82fd99afb785"
+    },
+    {
+      "start_time": 972,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic drumming."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "256086b9-287c-4a1a-a15c-d30e422dc628"
+    },
+    {
+      "start_time": 972,
+      "end_time": 1022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Collective chanting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "15375857-9c5f-4365-985b-fb6adb71f95f"
+    },
+    {
+      "start_time": 1022,
+      "end_time": 1084,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rhythmic drumming continues, electric guitar starts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "7762cbd7-2b19-4f38-aa6d-06b8e1a53906"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise [distant murmuring]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "6f79a68a-81d9-4273-9be2-b852d96989d0"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hum [male voice, muffled]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Recorded Sound"
+        }
+      ],
+      "uuid": "24bce628-fc10-42d1-b31b-47bc4deccb11"
+    },
+    {
+      "start_time": 1152,
+      "end_time": 1160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar strumming [muffled]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "e1e43407-e530-40b0-9128-0606c42b2a9c"
+    },
+    {
+      "start_time": 1160,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio surge, feedback."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Tech"
+        }
+      ],
+      "uuid": "fab39b4b-37d9-44b9-8a51-6b6da865664e"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Guitar strumming continues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Music"
+        }
+      ],
+      "uuid": "3b9cc98a-47e5-402a-b745-bd51857299f0"
+    },
+    {
+      "start_time": 1386,
+      "end_time": 1388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Room noise."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting and Tech",
+          "tag": "Foufounes Electriques"
+        }
+      ],
+      "uuid": "68ffe310-8c3c-41af-8bd5-34697ef3ab9f"
+    },
+    {
+      "start_time": 1388,
+      "end_time": 1388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[End of recording]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "END"
+        }
+      ],
+      "uuid": "d2f49529-6687-4a40-bcb3-a792416c489f"
+    }
+  ],
   "set": "Default",
   "event_id": "0b68514f-6dba-4cc4-9b06-6ddef7bcf6c2",
   "source_id": "db56f454-7429-43e8-a236-37bb73a8826d"
