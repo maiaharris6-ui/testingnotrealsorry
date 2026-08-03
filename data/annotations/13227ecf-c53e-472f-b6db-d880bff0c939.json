@@ -1070,6 +1070,38 @@
         }
       ],
       "uuid": "d2f49529-6687-4a40-bcb3-a792416c489f"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Montreal Poet Michel Lefebvre, dressed as a space alien, is quite visibly and audibly tipsy during the performance, knocking over vials of liquid on a table, with a girl in a Hugo Ball costume hovering robotically nearby."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a0188033-db9e-4a0b-b43d-224dbbe85065"
+    },
+    {
+      "start_time": 108,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Michel Lefebvre later founded and ran TOPO – a Montreal center for multimedia digital expression in the arts - for 25 years."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e386e329-0dd6-46c3-b1f6-2a5a9892b40d"
     }
   ],
   "set": "Default",
