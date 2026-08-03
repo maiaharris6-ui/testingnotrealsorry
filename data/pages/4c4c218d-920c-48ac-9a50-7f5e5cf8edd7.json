@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-08-03T19:17:53.821Z",
+  "created_by": "maiaharris6-ui",
+  "title": "michel test",
+  "slug": "michel-test",
+  "updated_at": "2026-08-03T19:17:53.821Z",
+  "updated_by": "maiaharris6-ui",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "0b68514f-6dba-4cc4-9b06-6ddef7bcf6c2"
+  }
+}

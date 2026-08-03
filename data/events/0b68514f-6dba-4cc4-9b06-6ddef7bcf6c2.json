@@ -1,0 +1,44 @@
+{
+  "audiovisual_files": {
+    "db56f454-7429-43e8-a236-37bb73a8826d": {
+      "label": "michel",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://www.youtube.com/watch?v=pgVJzrfF_XY&list=PL0qO7JC1WUBZyn0447gMXsbfNzNFnHKyV&index=6",
+      "duration": 1388,
+      "caption_set": [],
+      "set_sort": [],
+      "duration_overridden": true
+    },
+    "4a55ba23-f72a-41fa-9fdc-79739ac29708": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "vfefre"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "michel test",
+  "av_file_order": [
+    "db56f454-7429-43e8-a236-37bb73a8826d",
+    "4a55ba23-f72a-41fa-9fdc-79739ac29708"
+  ],
+  "created_at": "2026-08-03T19:17:52.594Z",
+  "created_by": "maiaharris6-ui",
+  "updated_at": "2026-08-03T19:17:52.594Z",
+  "updated_by": "maiaharris6-ui"
+}
